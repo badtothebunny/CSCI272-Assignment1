@@ -1,6 +1,6 @@
 //This program obtains a list of names of students along with their grades. It will alphabetically sort the names, sort the grades
 //and help the user find the grades of a student.
-//Programmer: Maria Psomas
+//Programmer: Badtothebunny
 #include <iostream>
 #include <iomanip>
 #include <string.h>//For this program, I will be using C-string
@@ -85,3 +85,4 @@ int main(int argc, char** argv) {
 	}
 
 }
+
